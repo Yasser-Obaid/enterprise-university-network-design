@@ -12,6 +12,17 @@ This project demonstrates the design and implementation of a secure enterprise u
 
 The project was developed to apply enterprise networking concepts, including routing, switching, network security, authentication, and infrastructure services, following industry best practices.
 
+## Key Features
+
+- Designed a secure enterprise network connecting **4 university buildings**.
+- Implemented dynamic routing using **OSPF**.
+- Configured **VLAN segmentation** for different departments and administrative networks.
+- Deployed core infrastructure services including **DHCP** and **DNS**.
+- Secured network access using **ACLs**, **AAA (RADIUS)**, **SSH**, and **Port Security**.
+- Configured **EtherChannel** to improve link redundancy and bandwidth.
+- Integrated **VoIP/IP Phones** for administrative communication.
+- Validated end-to-end connectivity, routing, authentication, and access control across the enterprise network.
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
