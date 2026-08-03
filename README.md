@@ -37,6 +37,18 @@ The network architecture includes:
 
 Each building is connected through a resilient routed backbone, while VLAN segmentation is used to isolate departments and improve security, scalability, and network management.
 
+## Security Implementation
+
+The network was designed with multiple security layers to simulate enterprise security practices.
+
+Implemented security mechanisms include:
+
+- **Access Control Lists (ACLs)** to restrict unauthorized network access.
+- **AAA Authentication (RADIUS)** for centralized user authentication and authorization.
+- **SSH** for secure remote device management.
+- **Port Security** to prevent unauthorized devices from connecting to switch ports.
+- **VLAN segmentation** to isolate departments and reduce broadcast domains.
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
