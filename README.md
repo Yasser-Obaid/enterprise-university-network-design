@@ -96,6 +96,18 @@ This project demonstrates practical knowledge and hands-on experience in:
 - Infrastructure Documentation
 - Network Testing & Validation
 
+## Future Improvements
+
+Future enhancements planned for this project include:
+
+- IPv6 implementation
+- OSPF authentication
+- Syslog integration
+- Network Time Protocol (NTP)
+- SNMP monitoring
+- High Availability (HSRP)
+- Firewall integration
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
