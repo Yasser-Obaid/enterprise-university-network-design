@@ -49,6 +49,19 @@ Implemented security mechanisms include:
 - **Port Security** to prevent unauthorized devices from connecting to switch ports.
 - **VLAN segmentation** to isolate departments and reduce broadcast domains.
 
+## Network Services
+
+The enterprise network provides centralized infrastructure services to support communication, authentication, and resource sharing across the university campus.
+
+Implemented services include:
+
+- **DHCP** for automatic IP address allocation.
+- **DNS** for hostname resolution.
+- **Web Server** for internal web services.
+- **FTP Server** for secure file transfer.
+- **Email Server** for organizational communication.
+- **AAA (RADIUS) Server** for centralized authentication.
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
