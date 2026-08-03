@@ -23,6 +23,20 @@ The project was developed to apply enterprise networking concepts, including rou
 - Integrated **VoIP/IP Phones** for administrative communication.
 - Validated end-to-end connectivity, routing, authentication, and access control across the enterprise network.
 
+## Network Architecture
+
+The enterprise network was designed to simulate a real-world university campus consisting of **4 interconnected buildings**, each representing a different organizational unit.
+
+The network architecture includes:
+
+- Administrative network for the Dean's office.
+- Department networks for academic staff.
+- General user network for students and employees.
+- Dedicated infrastructure servers providing centralized network services.
+- VoIP infrastructure supporting IP Phones for administrative communication.
+
+Each building is connected through a resilient routed backbone, while VLAN segmentation is used to isolate departments and improve security, scalability, and network management.
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
