@@ -77,6 +77,25 @@ Validation activities included:
 - Verified AAA (RADIUS) authentication for secure device access.
 - Tested VoIP communication between IP Phones.
 
+## Skills Demonstrated
+
+This project demonstrates practical knowledge and hands-on experience in:
+
+- Enterprise Network Design
+- Cisco Routing & Switching
+- OSPF Dynamic Routing
+- VLAN Design & Segmentation
+- Enterprise Network Security
+- Access Control Lists (ACLs)
+- AAA (RADIUS) Authentication
+- SSH Secure Management
+- DHCP & DNS Services
+- EtherChannel Configuration
+- VoIP Network Integration
+- Network Troubleshooting
+- Infrastructure Documentation
+- Network Testing & Validation
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
