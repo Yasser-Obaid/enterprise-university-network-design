@@ -62,6 +62,21 @@ Implemented services include:
 - **Email Server** for organizational communication.
 - **AAA (RADIUS) Server** for centralized authentication.
 
+## Testing & Validation
+
+The network was thoroughly tested to verify connectivity, routing, security policies, and service availability.
+
+Validation activities included:
+
+- Verified end-to-end connectivity between all university buildings.
+- Confirmed dynamic route propagation using OSPF.
+- Tested DHCP address assignment for client devices.
+- Verified DNS name resolution.
+- Validated SSH remote access to network devices.
+- Confirmed ACL functionality by testing authorized and unauthorized traffic.
+- Verified AAA (RADIUS) authentication for secure device access.
+- Tested VoIP communication between IP Phones.
+
 ## Technologies
 
 Cisco Packet Tracer • OSPF • VLANs • DHCP • DNS • ACLs • AAA (RADIUS) • SSH • EtherChannel • Port Security • VoIP
